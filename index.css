@@ -1,0 +1,79 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: whitesmoke;
+    
+}
+
+            h1 { 
+                font-size: 20px;
+                color: black;
+                text-align: center;
+                margin:0;
+                padding: 20;
+                position: center;    
+                float: left:
+            
+            
+            }
+
+            h2 {font-size: 20px;
+                color: black;
+                text-align: center;
+                float: left; 
+                margin:0;
+                padding:0;
+            }
+
+
+            p {overflow: hidden;
+            
+            }
+
+            h4 {font-size: 20px;
+                color: black;
+                text-align: center;}
+            
+            #divmainimgcontainer{
+                margin: 200px
+                
+            }
+            
+    
+            .divimgcontainter {
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                margin: 100px
+            }   
+            
+            
+            .hsubs {
+                font-size: 15px;
+
+}
+
+span  {
+    width: 70px;
+    height: 70px;
+    padding: 15px;
+    border: 1px solid blue;
+    background-color: yellow;
+}
+
+span.a {
+    display: inline; /* the default for span */
+}
+
+span.b {
+    display: inline-block;
+}
+
+span.c {
+    display: block;
+}
+
+img {
+    float: right;
+  }
+
+  
